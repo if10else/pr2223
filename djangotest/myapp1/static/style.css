@@ -1,0 +1,22 @@
+.text {
+    align-items: center;
+    color: goldenrod;
+}
+
+.bkgd {
+    background: linear-gradient(to right, #ADD8E6, #d9d9d9);
+}
+
+div {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 8px;
+    text-align: center;
+  }
